@@ -1,3 +1,8 @@
+/*Autor: Adriel Araujo
+-Estudante de Ciencias da Computação UECE 2016.2 - 1422340
+Author: Adriel Araujo
+-Student of Computer Science in UECE 2016.2 - 1422340*/
+
 #include <stdio.h>
 
 int main(void) {
