@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	int senha;
+	int sistema;
+
+	sistema = 2002;
+
+	while (1){
+		cin >> senha;
+		if(senha == sistema){
+			cout << "Acesso Permitido" << endl;
+			break;
+		}
+		else{
+			cout << "Senha Invalida" << endl;
+		}
+	}
+
+}
