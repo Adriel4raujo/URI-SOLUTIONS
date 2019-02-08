@@ -1,7 +1,7 @@
-/*Autor: Adriel Araujo
--Estudante de Ciencias da Computação UECE 2016.2 - 1422340
-Author: Adriel Araujo
--Student of Computer Science in UECE 2016.2 - 1422340*/
+//////////////////////////////////////////////////////////////////////////////////
+//                  Autor/Author: Adriel de Oliveira Araujo                     //
+//           Universidade Estadual do Ceará / Ceara State University            //
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 
